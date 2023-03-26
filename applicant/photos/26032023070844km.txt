@@ -1,0 +1,43 @@
+kunal mishra
+   IT-1
+05213203120
+
+
+Q1. Define Artificial intelligence on the basis of “System that think rationally” and “System that act 
+like humans”. 
+ On the basis of "System that thinks rationally", Artificial Intelligence (AI) refers to the ability 
+of machines to mimic human cognitive functions such as reasoning, problem-solving, and 
+decision-making. This means that machines can perform tasks by following logical rules and 
+making deductions based on available data. AI systems that think rationally are typically 
+used in applications such as expert systems, where the system is designed to provide advice 
+or recommendations based on a set of rules or knowledge. 
+ On the basis of "System that act like humans", AI refers to the ability of machines to perform 
+tasks that typically require human intelligence, such as perception, speech recognition, and 
+natural language processing. This means that machines can interact with humans in a way 
+that is natural and intuitive, allowing them to understand and respond to human commands 
+and requests. AI systems that act like humans are typically used in applications such as 
+chatbots, virtual assistants, and robots. 
+Q2. Differentiate between Natural (Human) Intelligence & Artificial Intelligence. 
+ Natural Intelligence is the cognitive ability of human beings to perceive, reason, learn, and 
+adapt to new situations. It is a complex and dynamic process that involves a combination of 
+innate abilities and learned skills, as well as environmental and social factors. 
+ Artificial Intelligence is the simulation of human intelligence in machines that can perform 
+tasks that typically require human intelligence, such as perception, reasoning, and decisionmaking. AI systems are designed to mimic human cognitive functions, but they do not have 
+the same level of complexity and adaptability as natural intelligence. 
+Q3. What is Weak AI and Strong AI? 
+ Weak AI, also known as narrow or applied AI, refers to machines that can perform a specific 
+task or a set of tasks that are programmed by humans. These systems are designed to solve 
+specific problems and are not capable of general intelligence. Examples of weak AI include 
+image recognition systems, voice assistants, and recommender systems. 
+ Strong AI, also known as artificial general intelligence (AGI), refers to machines that can 
+perform any intellectual task that a human can do. These systems would have the ability to 
+reason, learn, and adapt to new situations, and would be capable of general intelligence. 
+Strong AI is still a theoretical concept and has not yet been achieved. 
+Q4. Mention some related fields of Artificial Intelligence. 
+ Machine learning 
+ Deep learning 
+ Natural language processing 
+ Computer vision 
+ Robotics 
+ Expert systems 
+ Cognitive computing
